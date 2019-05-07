@@ -1,0 +1,13 @@
+C:\Users\Eming\Desktop\All programs C#\BankOOP2\BankOOP2\bin\Debug\BankOOP2.exe.config
+C:\Users\Eming\Desktop\All programs C#\BankOOP2\BankOOP2\bin\Debug\BankOOP2.exe
+C:\Users\Eming\Desktop\All programs C#\BankOOP2\BankOOP2\bin\Debug\BankOOP2.pdb
+C:\Users\Eming\Desktop\All programs C#\BankOOP2\BankOOP2\obj\Debug\BankOOP2.exe
+C:\Users\Eming\Desktop\All programs C#\BankOOP2\BankOOP2\obj\Debug\BankOOP2.pdb
+C:\Users\Eming\Desktop\All programs C#\BankOOP2\BankOOP2\obj\Debug\BankOOP2.csprojResolveAssemblyReference.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\BankOOP2\BankOOP2\obj\Debug\BankOOP2.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\BankOOP2\BankOOP2\obj\Debug\BankOOP2.csproj.CoreCompileInputs.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\BankOOP2\BankOOP2\obj\Debug\BankOOP2.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\BankOOP2\BankOOP2\obj\Debug\BankOOP2.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\BankOOP2\BankOOP2\bin\Debug\BankOOP2.exe.config
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\BankOOP2\BankOOP2\bin\Debug\BankOOP2.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\BankOOP2\BankOOP2\bin\Debug\BankOOP2.pdb
