@@ -1,0 +1,7 @@
+C:\Users\Eming\Desktop\All programs C#\DelegatesLecture2\DelegatesLecture2\bin\Debug\DelegatesLecture2.exe.config
+C:\Users\Eming\Desktop\All programs C#\DelegatesLecture(Multicast)2\DelegatesLecture2\bin\Debug\DelegatesLecture2.exe.config
+C:\Users\Eming\Desktop\All programs C#\DelegatesLecture(Multicast)2\DelegatesLecture2\bin\Debug\DelegatesLecture2.exe
+C:\Users\Eming\Desktop\All programs C#\DelegatesLecture(Multicast)2\DelegatesLecture2\bin\Debug\DelegatesLecture2.pdb
+C:\Users\Eming\Desktop\All programs C#\DelegatesLecture(Multicast)2\DelegatesLecture2\obj\Debug\DelegatesLecture2.csprojResolveAssemblyReference.cache
+C:\Users\Eming\Desktop\All programs C#\DelegatesLecture(Multicast)2\DelegatesLecture2\obj\Debug\DelegatesLecture2.exe
+C:\Users\Eming\Desktop\All programs C#\DelegatesLecture(Multicast)2\DelegatesLecture2\obj\Debug\DelegatesLecture2.pdb

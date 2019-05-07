@@ -1,0 +1,7 @@
+C:\Users\Eming\Desktop\All programs C#\Extensions\Extensions\bin\Debug\Extensions.exe.config
+C:\Users\Eming\Desktop\All programs C#\Extensions\Extensions\bin\Debug\Extensions.exe
+C:\Users\Eming\Desktop\All programs C#\Extensions\Extensions\bin\Debug\Extensions.pdb
+C:\Users\Eming\Desktop\All programs C#\Extensions\Extensions\obj\Debug\Extensions.exe
+C:\Users\Eming\Desktop\All programs C#\Extensions\Extensions\obj\Debug\Extensions.pdb
+C:\Users\Eming\Desktop\All programs C#\Extensions\Extensions\obj\Debug\Extensions.csprojAssemblyReference.cache
+C:\Users\Eming\Desktop\All programs C#\Extensions\Extensions\obj\Debug\Extensions.csproj.CoreCompileInputs.cache

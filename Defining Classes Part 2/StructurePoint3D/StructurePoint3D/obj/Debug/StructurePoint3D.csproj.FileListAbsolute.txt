@@ -1,0 +1,13 @@
+C:\Users\Eming\Desktop\All programs C#\StructurePoint3D\StructurePoint3D\bin\Debug\StructurePoint3D.exe.config
+C:\Users\Eming\Desktop\All programs C#\StructurePoint3D\StructurePoint3D\bin\Debug\StructurePoint3D.exe
+C:\Users\Eming\Desktop\All programs C#\StructurePoint3D\StructurePoint3D\bin\Debug\StructurePoint3D.pdb
+C:\Users\Eming\Desktop\All programs C#\StructurePoint3D\StructurePoint3D\obj\Debug\StructurePoint3D.exe
+C:\Users\Eming\Desktop\All programs C#\StructurePoint3D\StructurePoint3D\obj\Debug\StructurePoint3D.pdb
+C:\Users\Eming\Desktop\All programs C#\StructurePoint3D\StructurePoint3D\obj\Debug\StructurePoint3D.csprojResolveAssemblyReference.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\StructurePoint3D\StructurePoint3D\bin\Debug\StructurePoint3D.exe.config
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\StructurePoint3D\StructurePoint3D\bin\Debug\StructurePoint3D.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\StructurePoint3D\StructurePoint3D\bin\Debug\StructurePoint3D.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\StructurePoint3D\StructurePoint3D\obj\Debug\StructurePoint3D.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\StructurePoint3D\StructurePoint3D\obj\Debug\StructurePoint3D.csproj.CoreCompileInputs.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\StructurePoint3D\StructurePoint3D\obj\Debug\StructurePoint3D.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\StructurePoint3D\StructurePoint3D\obj\Debug\StructurePoint3D.pdb

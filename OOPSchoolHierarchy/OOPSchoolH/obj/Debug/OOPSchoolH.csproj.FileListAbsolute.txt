@@ -1,0 +1,12 @@
+C:\Users\Eming\Desktop\All programs C#\OOPSchoolH\OOPSchoolH\bin\Debug\OOPSchoolH.exe.config
+C:\Users\Eming\Desktop\All programs C#\OOPSchoolH\OOPSchoolH\bin\Debug\OOPSchoolH.exe
+C:\Users\Eming\Desktop\All programs C#\OOPSchoolH\OOPSchoolH\bin\Debug\OOPSchoolH.pdb
+C:\Users\Eming\Desktop\All programs C#\OOPSchoolH\OOPSchoolH\obj\Debug\OOPSchoolH.exe
+C:\Users\Eming\Desktop\All programs C#\OOPSchoolH\OOPSchoolH\obj\Debug\OOPSchoolH.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\OOPSchoolH\OOPSchoolH\obj\Debug\OOPSchoolH.csprojAssemblyReference.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\OOPSchoolH\OOPSchoolH\obj\Debug\OOPSchoolH.csproj.CoreCompileInputs.cache
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\OOPSchoolH\OOPSchoolH\obj\Debug\OOPSchoolH.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\OOPSchoolH\OOPSchoolH\obj\Debug\OOPSchoolH.pdb
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\OOPSchoolH\OOPSchoolH\bin\Debug\OOPSchoolH.exe.config
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\OOPSchoolH\OOPSchoolH\bin\Debug\OOPSchoolH.exe
+C:\Users\eming\Desktop\lenovo\All programs\All programs\All programs C#\OOPSchoolH\OOPSchoolH\bin\Debug\OOPSchoolH.pdb
