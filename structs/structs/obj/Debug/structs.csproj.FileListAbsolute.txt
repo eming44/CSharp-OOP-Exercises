@@ -1,0 +1,5 @@
+C:\Users\Eming\Desktop\All programs C#\structs\structs\bin\Debug\structs.exe.config
+C:\Users\Eming\Desktop\All programs C#\structs\structs\bin\Debug\structs.exe
+C:\Users\Eming\Desktop\All programs C#\structs\structs\bin\Debug\structs.pdb
+C:\Users\Eming\Desktop\All programs C#\structs\structs\obj\Debug\structs.exe
+C:\Users\Eming\Desktop\All programs C#\structs\structs\obj\Debug\structs.pdb
