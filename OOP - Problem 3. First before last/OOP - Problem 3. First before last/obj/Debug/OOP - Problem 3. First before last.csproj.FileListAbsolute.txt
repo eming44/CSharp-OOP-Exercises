@@ -1,0 +1,6 @@
+C:\Users\Eming\Desktop\All programs C#\OOP - Problem 3. First before last\OOP - Problem 3. First before last\bin\Debug\OOP___Problem_3.First_before_last.exe.config
+C:\Users\Eming\Desktop\All programs C#\OOP - Problem 3. First before last\OOP - Problem 3. First before last\bin\Debug\OOP___Problem_3.First_before_last.exe
+C:\Users\Eming\Desktop\All programs C#\OOP - Problem 3. First before last\OOP - Problem 3. First before last\bin\Debug\OOP___Problem_3.First_before_last.pdb
+C:\Users\Eming\Desktop\All programs C#\OOP - Problem 3. First before last\OOP - Problem 3. First before last\obj\Debug\OOP - Problem 3. First before last.csprojResolveAssemblyReference.cache
+C:\Users\Eming\Desktop\All programs C#\OOP - Problem 3. First before last\OOP - Problem 3. First before last\obj\Debug\OOP___Problem_3.First_before_last.exe
+C:\Users\Eming\Desktop\All programs C#\OOP - Problem 3. First before last\OOP - Problem 3. First before last\obj\Debug\OOP___Problem_3.First_before_last.pdb
