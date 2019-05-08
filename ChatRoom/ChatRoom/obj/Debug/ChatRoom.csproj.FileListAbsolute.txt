@@ -1,0 +1,6 @@
+C:\Users\Eming\Desktop\All programs C#\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe.config
+C:\Users\Eming\Desktop\All programs C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csprojResolveAssemblyReference.cache
+C:\Users\Eming\Desktop\All programs C#\ChatRoom\ChatRoom\bin\Debug\ChatRoom.exe
+C:\Users\Eming\Desktop\All programs C#\ChatRoom\ChatRoom\bin\Debug\ChatRoom.pdb
+C:\Users\Eming\Desktop\All programs C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.exe
+C:\Users\Eming\Desktop\All programs C#\ChatRoom\ChatRoom\obj\Debug\ChatRoom.pdb
