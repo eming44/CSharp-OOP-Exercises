@@ -1,0 +1,6 @@
+C:\Users\Eming\Desktop\All programs C#\06.DivisibleBy7And3\06.DivisibleBy7And3\bin\Debug\06.DivisibleBy7And3.exe.config
+C:\Users\Eming\Desktop\All programs C#\06.DivisibleBy7And3\06.DivisibleBy7And3\bin\Debug\06.DivisibleBy7And3.exe
+C:\Users\Eming\Desktop\All programs C#\06.DivisibleBy7And3\06.DivisibleBy7And3\bin\Debug\06.DivisibleBy7And3.pdb
+C:\Users\Eming\Desktop\All programs C#\06.DivisibleBy7And3\06.DivisibleBy7And3\obj\Debug\06.DivisibleBy7And3.csprojResolveAssemblyReference.cache
+C:\Users\Eming\Desktop\All programs C#\06.DivisibleBy7And3\06.DivisibleBy7And3\obj\Debug\06.DivisibleBy7And3.exe
+C:\Users\Eming\Desktop\All programs C#\06.DivisibleBy7And3\06.DivisibleBy7And3\obj\Debug\06.DivisibleBy7And3.pdb
