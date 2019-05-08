@@ -1,6 +1,0 @@
-C:\Users\Eming\Desktop\All programs C#\Inheritance-and-Accessibility\Inheritance-and-Accessibility\bin\Debug\Inheritance-and-Accessibility.exe.config
-C:\Users\Eming\Desktop\All programs C#\Inheritance-and-Accessibility\Inheritance-and-Accessibility\bin\Debug\Inheritance-and-Accessibility.exe
-C:\Users\Eming\Desktop\All programs C#\Inheritance-and-Accessibility\Inheritance-and-Accessibility\bin\Debug\Inheritance-and-Accessibility.pdb
-C:\Users\Eming\Desktop\All programs C#\Inheritance-and-Accessibility\Inheritance-and-Accessibility\obj\Debug\Inheritance-and-Accessibility.csprojResolveAssemblyReference.cache
-C:\Users\Eming\Desktop\All programs C#\Inheritance-and-Accessibility\Inheritance-and-Accessibility\obj\Debug\Inheritance-and-Accessibility.exe
-C:\Users\Eming\Desktop\All programs C#\Inheritance-and-Accessibility\Inheritance-and-Accessibility\obj\Debug\Inheritance-and-Accessibility.pdb
