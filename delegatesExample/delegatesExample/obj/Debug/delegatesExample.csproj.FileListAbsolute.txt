@@ -1,0 +1,7 @@
+c:\users\eming\source\repos\delegatesExample\delegatesExample\bin\Debug\delegatesExample.exe.config
+c:\users\eming\source\repos\delegatesExample\delegatesExample\bin\Debug\delegatesExample.exe
+c:\users\eming\source\repos\delegatesExample\delegatesExample\bin\Debug\delegatesExample.pdb
+c:\users\eming\source\repos\delegatesExample\delegatesExample\obj\Debug\delegatesExample.csprojAssemblyReference.cache
+c:\users\eming\source\repos\delegatesExample\delegatesExample\obj\Debug\delegatesExample.csproj.CoreCompileInputs.cache
+c:\users\eming\source\repos\delegatesExample\delegatesExample\obj\Debug\delegatesExample.exe
+c:\users\eming\source\repos\delegatesExample\delegatesExample\obj\Debug\delegatesExample.pdb
